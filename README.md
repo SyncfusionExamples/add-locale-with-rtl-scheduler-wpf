@@ -1,2 +1,1 @@
-# add-locale-with-rtl-scheduler-wpf
-How to add locale with RTL in WPF Schedule (SfScheduler)
+**[View document in Syncfusion WPF Knowledge base](https://www.syncfusion.com/kb/12291/how-to-add-locale-with-rtl-in-wpf-schedule-sfscheduler)**
